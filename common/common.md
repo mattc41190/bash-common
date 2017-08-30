@@ -3,12 +3,13 @@
 ### How to run an exercise:
 
 1. `cd path/to/file`
-2. `sh the_file_name.sh` 
+2. `sh the_file_name.sh`
 
 #### - terminal
 * `pwd` -  asks where am I?
 * `whoami` - asks who am I?
 * `ls` - asks what is around me?
+* `cd` - requests a change in working directory.
 
 #### - vim
 How do I make a file in terminal
