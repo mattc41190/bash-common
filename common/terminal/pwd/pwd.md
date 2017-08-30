@@ -10,6 +10,3 @@ Reference Material:
 
 * https://www.computerhope.com/unix/upwd.htm
 * https://www.cyberciti.biz/faq/pwd-linux-unix-command-examples/
-
-
-* https://stackoverflow.com/questions/4651437/how-to-set-a-variable-to-the-output-from-a-command-in-bash
